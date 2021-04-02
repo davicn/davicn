@@ -1,4 +1,9 @@
-### Olá, eu sou Davi 👋
+# Olá, eu sou Davi 👋
+
+- Desenvolvedor Fullstack
+- Aprendiz de cientista de dados
+
+
 
 <!--
 **davicn/davicn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
