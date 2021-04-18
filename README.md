@@ -1,7 +1,7 @@
 # Olá, eu sou Davi 👋
 
 - Desenvolvedor Fullstack
-- Aprendiz de cientista de dados
+- Aprendiz de Cientista de Dados
 
 
 
