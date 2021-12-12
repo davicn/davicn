@@ -1,10 +1,9 @@
 # E ae, eu sou Davi :v:	
 
 ## Sobre mim
-Curioso e apaixonado por investigar dados e resolver problemas. 
+Curioso e apaixonado por investigar dados e resolver problemas. Atualmente atuo como engeheiro de dados na Pulse (Grupo Mateus).
 
 ## Formação
---
 - Graduado em Ciência e Tecnologia
 - Mestre em Eng Elétrica (Aprendizado de Máquina em Neurociências)
 
