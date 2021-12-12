@@ -1,7 +1,12 @@
 # E ae, eu sou Davi :v:	
 
-- Desenvolvedor Fullstack
-- Aprendiz de Cientista/Engenheiro de Dados
+## Sobre mim
+Curioso e apaixonado por investigar dados e resolver problemas. 
+
+## Formação
+--
+- Graduado em Ciência e Tecnologia
+- Mestre em Eng Elétrica (Aprendizado de Máquina em Neurociências)
 
 
 
