@@ -1,4 +1,4 @@
-# Olá, eu sou Davi 👋
+# E ae, eu sou Davi :v:	
 
 - Desenvolvedor Fullstack
 - Aprendiz de Cientista/Engenheiro de Dados
