@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://images.gupy.io/unsafe/100x100/https://s3.amazonaws.com/gupy5/production/companies/502/career/1898/images/2020-08-03_11-34_logo.png"/>](https://nubank.com.br/)
 
 **Programador Jr II** \
-[**Nubank**](https://nubank.com.br/) • Contract \
+[**Pulse**](https://www.linkedin.com/company/pulseoficial/mycompany/) • Contato \
 Languages & Technologies: `Postgres`, `SQL Server`, `Apache Nifi`, `Apache Airflow`, `Apache Superset`, `Microsoft Power BI`, `PySpark`, `Databricks`, `Azure Datalake Storage` 
 
 
