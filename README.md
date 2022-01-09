@@ -2,8 +2,6 @@
 
 # E ae, eu sou o Davi :v:	
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=davicn&color=f8efd4&style=for-the-badge&logo=GitHub">
-
 <p>
 
 Apaixonado por explorar e aprender com dados
