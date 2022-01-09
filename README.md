@@ -31,12 +31,12 @@ Here are some ideas to get you started:
 
 **Programador Jr II** \
 [**Pulse**](https://www.linkedin.com/company/pulseoficial/mycompany/) • Contato \
-Languages & Technologies: `Postgres`, `SQL Server`, `Apache Nifi`, `Apache Airflow`, `Apache Superset`, `Microsoft Power BI`, `PySpark`, `Databricks`, `Azure Datalake Storage` , `Docker` 
+Linguagens e Tecnologias: `Postgres`, `SQL Server`, `Apache Nifi`, `Apache Airflow`, `Apache Superset`, `Microsoft Power BI`, `PySpark`, `Databricks`, `Azure Datalake Storage` , `Docker` 
 
 
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://images.gupy.io/unsafe/100x100/https://s3.amazonaws.com/gupy5/production/companies/502/career/1898/images/2020-08-03_11-34_logo.png"/>](https://nubank.com.br/)
 
 **Programador Jr I** \
 [**Pulse**](https://www.linkedin.com/company/pulseoficial/mycompany/) • Contato \
-Linguagens & Tecnologias: `React Native`, `React`, `Node.js`, `TypeScript`, `Express`, `Python`, `SQL Server`, `MongoDB`, `Postgres` \
+Linguagens e Tecnologias: `React Native`, `React`, `Node.js`, `TypeScript`, `Express`, `Python`, `SQL Server`, `MongoDB`, `Postgres` \
 Projeto: [Maestro App](https://play.google.com/store/apps/details?id=com.ithappens_piloto_app&hl=pt_BR&gl=US)
