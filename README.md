@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-
+<!--
 ## Minhas Experiências
 
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://images.gupy.io/unsafe/100x100/https://s3.amazonaws.com/gupy5/production/companies/417/career/35254/images/2021-11-05_19-02_logo.png"/>]
@@ -60,3 +60,4 @@ Linguagens e Tecnologias: `Postgres`, `SQL Server`, `Apache Nifi`, `Apache Airfl
 [**Pulse**](https://www.linkedin.com/company/pulseoficial/mycompany/) • Contato \
 Linguagens e Tecnologias: `React Native`, `React`, `Node.js`, `TypeScript`, `Express`, `Python`, `SQL Server`, `MongoDB`, `Postgres` \
 Projeto: [Maestro App](https://play.google.com/store/apps/details?id=com.ithappens_piloto_app&hl=pt_BR&gl=US)
+-->
