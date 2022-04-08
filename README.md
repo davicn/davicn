@@ -19,6 +19,7 @@ Desenvolvedor Fullstack e Engenheiro de Dados
 ## Formação
 - Graduado em Ciência e Tecnologia
 - Mestre em Engenharia Elétrica (Aprendizado de Máquina em Neurociências)
+- Doutorando em Engenharia Elétrica (Aprendizado de Máquina em Neurociências)
 
 
 
