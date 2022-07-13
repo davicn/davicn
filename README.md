@@ -6,7 +6,10 @@
 
 Apaixonado por explorar e aprender com dados
 
-Engenheiro de Dados (por profissão) e Desenvolvedor Fullstack (por diversão)
+- Engenheiro de Dados (por profissão)
+- Desenvolvedor Fullstack (por diversão)
+- Professor (por realização)
+
 
 
 </p>
