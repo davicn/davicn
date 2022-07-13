@@ -25,6 +25,9 @@ Apaixonado por explorar e aprender com dados
 - Doutorando em Engenharia Elétrica (Aprendizado de Máquina em Neurociências)
 
 
+## Atuação
+- Machine Learning Engineer na [Compass.UOL](https://compass.uol/pt/)
+- Professor de Data Science na [Let's Code](https://letscode.com.br/)
 
 <!--
 
