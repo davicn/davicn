@@ -6,7 +6,7 @@
 
 Apaixonado por explorar e aprender com dados
 
-- Engenheiro de Dados (por profissão)
+- Engenheiro de Dados / ML Engineer (por profissão)
 - Desenvolvedor Fullstack (por diversão)
 - Professor (por realização)
 
@@ -20,14 +20,18 @@ Apaixonado por explorar e aprender com dados
 
 
 ## Formação
-- Graduado em Ciência e Tecnologia
-- Mestre em Engenharia Elétrica (Aprendizado de Máquina em Neurociências)
-- Doutorando em Engenharia Elétrica (Aprendizado de Máquina em Neurociências)
+- Graduado em Ciência e Tecnologia / Eng da Computação - UFMA
+- Mestre em Engenharia Elétrica - UFMA (Aprendizado de Máquina em Neurociências)
+- Doutorando em Engenharia Elétrica - UFMA (Aprendizado de Máquina em Neurociências)
 
 
 ## Atuação
 - Machine Learning Engineer na [Compass.UOL](https://compass.uol/pt/)
 - Professor de Data Science na [Let's Code](https://letscode.com.br/)
+
+## Mais sobre mim
+- [Instagram](https://www.instagram.com/davi_n_/)
+- [LinkedIn](https://www.linkedin.com/in/davicostanascimento/)
 
 <!--
 
