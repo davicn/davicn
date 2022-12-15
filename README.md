@@ -17,7 +17,7 @@ Apaixonado por explorar e aprender com dados
 
 
 
-
+<!--
 
 ## Formação
 - Graduado em Ciência e Tecnologia / Eng da Computação - UFMA
@@ -32,7 +32,7 @@ Apaixonado por explorar e aprender com dados
 ## Mais sobre mim
 - [Instagram](https://www.instagram.com/davi_n_/)
 - [LinkedIn](https://www.linkedin.com/in/davicostanascimento/)
-
+-->
 <!--
 
 **davicn/davicn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
