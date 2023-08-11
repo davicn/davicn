@@ -6,7 +6,7 @@
 
 Apaixonado por explorar e aprender com dados
 
-- Engenheiro de Dados / ML Engineer (por profissão)
+- Data/ML Engineer (por profissão)
 - Desenvolvedor Fullstack (por diversão)
 - Professor (por realização)
 
